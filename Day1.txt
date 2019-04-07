@@ -1,0 +1,46 @@
+Vishal Bayskar 
+9130012785
+vishalbayskar2018@gmail.com
+
+1. DataTypes
+    list, tuple, string
+	dictionary, Array
+2. loops, if else, break,
+	continue
+3. Function creation (UDF)
+4. map, reduce, filter
+	zip.
+5. List comprehension 
+(dictionary, tuple)
+6. Lambda functions
+7. File handling
+8. Exception Handling.
+9. Decorators.
+10.Generators
+11. Shallow copy, deep copy
+12. class
+   1. variable scope.
+   2. private member python.
+   3. initialization, 
+      object creation.
+    4. singleton pattern
+	5. factory pattern
+13. Multi Treading
+14. Multi Processing
+15. MySQL.
+16. Debugging.
+17. Flask 
+18. Json handling.
+
+* Python Compiled Interpreter 
+language
+* In python everything is 
+object.
+ id (variable)
+* Object oriented language.
+* not strict type language.
+  (you don't need to define
+  type) 
+	
+	
+	
