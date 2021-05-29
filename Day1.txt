@@ -1,6 +1,4 @@
-Vishal Bayskar 
-9130012785
-vishalbayskar2018@gmail.com
+
 
 1. DataTypes
     list, tuple, string
